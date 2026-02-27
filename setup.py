@@ -3,7 +3,7 @@ from __future__ import annotations
 from setuptools import setup
 
 
-TYPOS_VERSION = '1.43.5'
+TYPOS_VERSION = '1.44.0'
 
 
 setup(
